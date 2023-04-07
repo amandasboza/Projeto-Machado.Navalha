@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.principal {
+    background: #CCCCCC;
+}
+
+#headBanner {
+    width: 100%;
+}
+
+p{
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+.beneficios {
+    height: 30vh;
+
+    background-image: url(/midias/beneficios.jpg);
+    opacity: 0.9;
+
+    color: #FFFFFF;
+}
+
+#itens li {
+    font-style: italic;
+}
